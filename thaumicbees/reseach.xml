@@ -1,0 +1,136 @@
+<research>
+<project id="TBSTARTNODE">
+<name>蜜蜂与魔法</name>
+<popupText>穿过原野与森林</popupText>
+<longText>某些事情让你意识到树木与蜜蜂需要进一步研究。</longText>
+<page type="text">最近的一次突破性研究让你关注起林业与养蜂业，也许他们并非初次看上去那么简单平凡。一些潜在的可能需要进一步研究。你需要发挥创造性思维来琢磨那些司空见惯的物品。</page>
+</project>
+
+<project id="STARKHINT">
+<name>朴实蜂</name>
+<popupText>跨领域进展</popupText>
+<longText>你初步的养蜂研究已经结出硕果。也许在某种条件下，你能找到一种可以灌注魔力的突变蜂种。</longText>
+<page type="text">蜜蜂也受到魔力的影响，有的种类甚至比人类对魔力波动更敏感。
+
+也许可以用两种不同种类的蜜蜂培育出一个受到超自然的奥术能量影响的蜂种。这种蜂种若真的存在，那么它将揭示出更多秘密。需要进一步的研究，以及一个标本。</page>
+</project>
+
+<project id="BEEINFUSION">
+<name>神秘蜂</name>
+<popupText>奥术养蜂</popupText>
+<longText>进一步研究所谓的朴素蜂让你逐步掌握了如何向蜂类灌注元素能量，或者要素甚至是魔力本身的技术。</longText>
+<page type="text">进一步深化之前的理论后，你提出了如何将蜜蜂灌注要素的理论。这种成功利弊难明，还有待观察。
+
+在注魔坛中，将一只传奇的朴素蜂与任意元素的碎片融合，你将能够把某些要素力量铭刻于其上。不幸的是，蜂后由于过于敏感无法进行这样的实验，你只能将这项技术应用与雄峰或者工蜂。
+</page>
+<page type="infusioncrafting">BEEINFUSION1</page>
+<page type="infusioncrafting">BEEINFUSION2</page>
+<page type="infusioncrafting">BEEINFUSION3</page>
+<page type="infusioncrafting">BEEINFUSION4</page>
+<page type="infusioncrafting">BEEINFUSION5</page>
+<page type="infusioncrafting">BEEINFUSION6</page>
+<page type="infusioncrafting">BEEINFUSION7</page>
+<page type="infusioncrafting">BEEINFUSION8</page>
+<page type="infusioncrafting">BEEINFUSION9</page>
+<page type="infusioncrafting">BEEINFUSION0</page>
+</project>
+
+<project id="FERTILIZER">
+<name>浓缩复合物</name>
+<popupText></popupText>
+<longText>你相信只要富集某些被加工过的作物生长非常需要的物质，你就能够增加磷的储量。</longText>
+<page type="text">你已经通过有限的魔法应用来实现增加磷的储量。
+
+通过将蕴含收获要素的泥土与磷注魔，你可以制造富含磷的混合物。将其稀释后能制成各种肥料。
+</page>
+<page type="infusioncrafting">FERTILIZER</page>
+</project>
+
+<project id="HIVEFRAME">
+<name>魔力框架</name>
+<popupText>新的蜜蜂框架</popupText>
+<longText>持续地关注这些嗡嗡歌唱飞来飞去的小东西让你灵光一现，也许恰到好处地在现存的一些养蜂设备上使用一些魔法技术，可以激励蜜蜂更加高效率地工作。</longText>
+<page type="text">养蜂人使用的最普通的框架很有用，但容易破损。借助魔法的力量你能够将其强化，只要其环境中有必要的灵气供应，其工作时间就能数倍于普通框架，</page>
+<page type="infusioncrafting">FRAMEMAGIC</page>
+</project>
+
+<project id="HIVEFRAME2">
+<name>弹性框架</name>
+<popupText>更好……</popupText>
+<longText>在研究出强化框架之后，理所当然的下一步是进行更深入的研究。这种强化版本的魔法框架将能增加蜜蜂的工作速度，且更加耐用，但是却会消耗更多灵气。</longText>
+<page type="text">在研究出强化框架之后，理所当然的下一步是进行更深入的研究。这种强化版本的魔法框架将更加耐用，但是灵气消耗也显著增加。 </page>
+<page type="infusioncrafting">FRAMERESILIENT</page>
+</project>
+
+<project id="HIVEFRAMEGENTLE">
+<name>柔性框架</name>
+<popupText>你甚至没注意到我在这儿</popupText>
+<longText>持续地关注这些嗡嗡歌唱飞来飞去的小东西让你灵光一现，让你意识到如果用生命，植物，健康这些为它们缩小喜爱的要素环绕它们，便能延长其生命周期。</longText>
+<page type="text">柔性框架能够延长蜂后一般的寿命，加快工蜂的速度。因此它能够使得一代蜜蜂存活更久，出产更多。
+
+就像魔法框架一样，这种框架的魔力效果消耗灵气，并会产生一些咒波，有时候蜜蜂甚至会飞到工作外的蜂巢去。咒波的量很少，不需要过分担心。
+</page>
+<page type="infusioncrafting">FRAMEGENTLE</page>
+</project>
+
+<project id="HIVEFRAMEMETA">
+<name>代谢框架</name>
+<popupText>又一个，又两个!</popupText>
+<longText>更多的蜜蜂研究让你洞悉了它们的身体构造、代谢和生命周期，你意识到研究出一种加快其新陈代谢的框架的可能性。</longText>
+<page type="text">代谢框架加快新陈代谢的速度，使得蜜蜂工作效率更高。但这会导致蜜蜂的基因组不稳定，容易发生变异。虽然这会让某些养蜂员非常沮丧，但对有心的养蜂员会利用代价框架来更方便地获得突变的蜂种。
+
+就像魔法框架一样，这种框架的魔力效果消耗灵气，并会产生一些咒波，而且由于其复杂的特殊效果，其耐久不如魔法框架。</page>
+<page type="infusioncrafting">FRAMEMETABOLIC</page>
+</project>
+
+<project id="HIVEFRAMENECRO">
+<name>坏死框架</name>
+<popupText>无望之蜂</popupText>
+<longText>被蜜蜂蛰了以后你非常愤怒，希望他们付出代价。于是你研究出了这种浸毒的充满死亡气息的框架，让蜜蜂们好好记住这个教训吧!</longText>
+<page type="text">对蜜蜂的复仇行动引发的这项研究让你掌握了死坏框架的知识。把这种框架放在蜂箱中，将使得蜜蜂变得迟钝，工作缓慢，疾病缠身，极大地缩短其生命周期。注意其产生的魔力效果只影响当前的一代，因此这项研究可以应用于快速育种。
+
+就像魔力框架一样，其特殊魔力效果需要消耗灵气。虽然这并非你最好的作品，但其产生的咒波却是最多的。</page>
+<page type="infusioncrafting">FRAMENECROTIC</page>
+</project>
+
+<project id="HIVEFRAMETIME">
+<name>瞬息框架</name>
+<popupText>为啥不是蓝色的方形?</popupText>
+<longText>你一直在寻求延长蜜蜂寿命的途径，这种用时间属性的要素灌入了魔力的框架应该能有理想的效果。</longText>
+<page type="text">养蜂最令人痛苦之处在于短寿的昆虫不得不让你必须频繁手动去干涉其培育过程。
+
+这种魔法框架能显著增强蜜蜂的寿命。它同样消耗灵气产生咒波。</page>
+<page type="infusioncrafting">FRAMETIME</page>
+</project>
+
+<project id="VOIDCAPSULE">
+<name>虚空胶囊</name>
+<popupText>异位面的液体储存技术</popupText>
+<longText>既然能够实现在空间传送和存储物品，那么对液体应该也能做类似的事情。</longText>
+<page type="text">这种新型胶囊能够将液体存放进一个有8个桶大小的折叠空间内。
+
+和其他胶囊一样，它们是一次性的。它们已经被证明是长期存储液体的好容器。</page>
+<page type="infusioncrafting">VOIDCAPSULE</page>
+</project>
+
+<project id="THAUMIUMSCOOP">
+<name>神秘捕蜂网</name>
+<popupText>更快更强更蜜蜂！</popupText>
+<longText>用更好的材料做出更加耐久的捕蜂网。也许用它们附上修复魔法后会更好。</longText>
+<page type="text">神秘材料做出的3倍耐久的捕蜂网。
+
+附魔后可能拥有自我修复的效果。</page>
+<page type="arcanecrafting">THAUMIUMSCOOP</page>
+</project>
+
+<project id="THAUMIUMGRAFTER">
+<name>神秘剪枝器</name>
+<popupText></popupText>
+<longText>用更好的材料做出更加耐久的剪枝器。也许用它们附上修复魔法后会更好。</longText>
+<page type="text">神秘材料制作的2倍耐久的剪枝器。
+
+附魔后可能拥有自我修复的效果。</page>
+<page type="arcanecrafting">THAUMIUMGRAFTER</page>
+</project>
+
+</research>
