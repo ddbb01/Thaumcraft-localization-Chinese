@@ -1,0 +1,1136 @@
+<?xml version="1.0"?>
+<research>
+
+<project id="ASPECT">
+<name>魔法之要素</name>
+<popupText>万物构造之源</popupText>
+<longText></longText>
+<page type="text">一切造物(道具，对象及生物)均系于被名为“要素”的魔力元素。要素描绘了物品的构成及其对魔力元素的偏向。普通的岩石可能蕴含Saxum(即拉丁文的岩石)要素,而更复杂的事物，比如树木，甚至生物则可能蕴含多种数量不等的要素。目前已经有将近50种要素被发现。
+作为一个有神秘使潜质的人类，若想要查看一个物品所具备的要素，只需要在选中物品时按下潜行键(默认shift)，这样你就能看见其蕴含要素的种类和数量。
+</page>
+<page type="text">要素在一定程度上分离于其对象，并且作为纯粹的本质物，要素非常具有价值：无论是用作合成的工具还是作为一门魔法研究的学科。</page>
+</project>
+
+<project id="AURA">
+<name>灵气</name>
+<popupText>无所不在的魔法能量</popupText>
+<longText></longText>
+<page type="text">灵气是笼罩世界的魔法能量。其源头未明。有的人相信灵气是活物积累的生命能量，而有的人则倾向于认为它仅仅不过是一种从某些地方渗出的能量。后一种观点似乎更具备可能：，因为人们经常发现灵气环绕于一种集中了魔法能量的“灵气节点”。
+每一个“灵气节点”都容纳了一定数量的魔力能量。如果其能量骤然降低，那么它会尝试充能并将自己保持到基本的能量蕴含量水平。为此它会转借附近的灵气或者被附近的蕴魔矿物充能。
+</page>
+<page type="text">
+
+灵气节点强度，大小以及位置各有不同。已发现的灵气节点计有4种类型，包括
+标准节点 并无特殊之处
+纯净节点 净化，清除自身的咒波
+混沌节点 产生混乱的咒波
+黑暗节点 泵出恶意的能量
+
+灵气能够被称为神秘使的人类发掘并用于驱动其魔力设备和奥术。这种被如此加以利用的灵气也被称之为魔导力。
+</page>
+</project>
+
+<project id="INFUSEDORE">
+<name>蕴魔矿物</name>
+<popupText>蕴含魔力的岩石</popupText>
+<longText></longText>
+<page type="text">有时，当一个灵气场内的魔力能量过高，魔力会渗透进岩石并形成结晶状的蕴魔矿物。这种魔力水晶可以被采集。
+
+这些结晶分为多种元素种类，并且在神秘学上应用广泛。
+
+需要注意的是，蝗虫过境般地采集这种蕴魔的矿物并非好主意，它还有其他的用途：当地灵气骤降的时候，这些结晶会变回灵气状态来补充其灵气损失，遗留下一些枯竭的水晶。
+而当灵气重新充盈的时候这些枯竭的水晶又会恢复蕴魔状态。 
+</page>
+<page type="text">有时候，普通石头在魔力能量极其高的时候也会自发地变成蕴魔矿物。</page>
+</project>
+
+<project id="FLUX">
+<name>咒波</name>
+<popupText>异化的魔力</popupText>
+<longText></longText>
+<page type="text">魔力的运用从来不是毫无风险，其最佳证明莫过于咒波的存在。
+如果将一个魔力灵气场形容成一个平静的池塘，那么咒波就好像是池塘投入岩石后引起的漩涡和波纹。 
+它并非腐化的魔力，但却是一种混乱的状态：秩序归于混沌，而自然法则完全被颠覆。
+
+幸运的是，灵气总有一种归于秩序和平衡的趋势，这就意味着咒波会以某种方式被清除。其被清除的确切方式之间差异很大，各有不同，并且取决于灵气中咒波的类型。
+</page>
+<page type="text">最常见和简单的一种方式是自发形成一些魔力精灵。闪电，风暴和神秘的疾病(奇怪的负面状态)或者增益也都有可能是咒波被宣泄的形式。
+
+只有勇敢无畏或者白痴透顶的魔力实验才会不在乎到底有多少咒波排放到了环境中。
+</page>
+</project>
+
+<project id="WAND">
+<name>学徒之杖</name>
+<popupText>一切的开端</popupText>
+<longText></longText>
+<page type="text">这柄铸造法杖是你作为神秘使最为基本也最为重要的工具。它将用于创建物品，激活特殊方块(比如坩埚)以及其他数不清的任务。
+
+它储存了50vis的魔导力(魔导力单位：vis)。当附近有魔力节点，你所携带的学徒之杖可以自动充能。</page>
+<page type="crafting">WAND</page>
+</project>
+
+<project id="SCRIBE">
+<name>笔与墨</name>
+<popupText>抄写及研究的工具</popupText>
+<longText></longText>
+<page type="text">笔与墨有两个重要用途。其一，进行坩埚实验时，有时会灵光一现，如果携带了笔与墨以及纸张就可以把这些灵感作为研究笔记记录下来。
+
+其二，它用于创建研究台。
+
+墨水被消耗后可以用墨囊来补充。
+</page>
+<page type="crafting">SCRIBE1</page>
+<page type="crafting">SCRIBE2</page>
+</project>
+
+<project id="PHIAL">
+<name>玻璃药瓶</name>
+<popupText>神秘容器</popupText>
+<longText></longText>
+<page type="text">玻璃药瓶能够盛放各种形式的液体或者其他物质，但最为重要的是它可以容纳以本质物状态出现的要素。这种状态的要素难以收集，并会彻底污染盛放它的玻璃药瓶，因此导致玻璃药瓶只能作为一种一次性使用的消耗品。 </page>
+<page type="crafting">PHIAL</page>
+</project>
+
+<project id="THAUMONOMICON">
+<name>魔导手册</name>
+<popupText>知识的宝库</popupText>
+<longText></longText>
+<page type="text">只需对着书架使用你的法杖，你就能制作出属于你的魔导手册。
+
+魔导手册将是神秘学方面全面权威的参考手册。它会列出你当前全部的研究发现，并且在大体上(但并不确保你完全了解仍然有多少未知可供探索寻觅)让你对仍然有多少可以研究的内容有一个总的印象。
+
+每当你阅读了记录新研究成果的卷轴,它会自动把相关内容添加记录到手册中。建议在右键使用卷轴时适当留意下其研究需要的要素(正常情况下使用过的卷轴会消失)，这些知识可能对你的朋友有所帮助。这样你就可以自由浏览这些研究发现相关的合成以及一些细致的信息。</page>
+<page type="compoundcrafting">THAUMONOMICON</page>
+</project>
+
+<project id="CRUCIBLE">
+<name>坩埚</name>
+<popupText>沸腾并且冒着泡</popupText>
+<longText></longText>
+<page type="text">只需对着放置在地上的普通炼药锅使用你的法杖，你就能得到这种具有魔力的坩埚。
+
+坩埚对神秘使来说是重要的工具。它能够让你将常态的物品分解成其蕴含的要素并且如你所愿地组合。
+
+坩埚需要放置在一个长久热源的上方(用打火石点燃下界岩来构建)并且装满水。
+当水开始沸腾并冒着气泡的时候可以向其中投掷物品，这样物品就会分解破坏成基本要素。
+你可以对着坩埚使用法杖来组合坩埚中的要素制作物品，但这会消耗掉坩埚中所有的要素并且需要重新添水。
+</page>
+
+<page type="compoundcrafting">CRUCIBLE</page>
+
+<page type="text">
+
+制作物品剩余的要素实际上是挥发到了当地大气中，并因此形成咒波。若你按住潜行键(shift)再对着坩埚使用法杖，那么这些要素将都不参与合成而是直接排放到大气中。就对神秘学所知甚少的现在而言……这好像不是你所指望做的事情。
+
+如果在进行坩埚实验时你能随身带着笔墨纸张，也许你有时候会发现些什么。</page>
+
+</project>
+
+<project id="TABLE">
+<name>台桌</name>
+<popupText>一些设备安装所需</popupText>
+<longText></longText>
+<page type="text">台桌并非仅仅是个装饰性的方块-在魔法实验中，它还能作为创建奥术工作台和研究台的基础部件。</page>
+<page type="crafting">TABLE</page>
+</project>
+
+<project id="ACTABLE">
+<name>奥术工作台</name>
+<popupText>魔力合成</popupText>
+<longText></longText>
+<page type="text">对着放置好的台桌使用法杖(右键)就能创建一个奥术工作台。除了几个关键的不同外，奥术工作台囊括了普通的木制工作台的功能。
+除去普通的合成，这个工作台还能用于制作一些神秘学上独有的道具。合成这种物品时你需要将你的法杖放置在工作台右下角的位置，这样制作过程中需要的魔导力就可以由这个法杖来供给。
+放置在奥术工作台中的法杖仍然能够缓慢地吸收灵气来恢复魔导力，但这比放在你的道具栏里要慢很多。</page>
+<page type="compoundcrafting">ACTABLE</page>
+</project>
+
+<project id="RESTABLE">
+<name>研究台</name>
+<popupText>知识就是力量</popupText>
+<longText></longText>
+<page type="text">将两个台桌比邻而放，然后将笔与墨搁在桌面上便可以创建研究台。
+
+研究台对神秘使来说是最重要的工具。它用于解锁宇宙中所有隐藏的奥秘，并且发现有关魔力的各种应用。
+
+要研究物品你需要将一些纸张放置在研究台底部的格子中。你想要研究的物品则放在左边的栏中。当按下中间的放大镜按钮时，你就会开始研究组合左侧物品的要素并有机会得到一个奥术知识的碎片。 
+</page> 
+
+<page type="compoundcrafting">RESTABLE</page>
+
+<page type="text">物品蕴含的要素会显示在界面中。许多物品拥有多种要素。量多的要素总会被用掉，因此不要无谓地浪费资源(也就是说一次性不要在研究物品格中放太多不同物品)。
+
+最下方有一个滑动条可以选择研究模式：浅尝辄止或者追本溯源。前者研究效率低，但耗费的物品资源少，后者恰好相反。
+</page>
+
+<page type="text">
+
+在研究过程的开始，你可能对你的研究内容一无所知，但是随着研究的深入，这项知识的一些信息会逐渐被你掌握。在一开始你不知道应该投入哪些要素以及投入多少数量，但慢慢地根据逐渐出现的信息你能够猜测和添加适当种类数量的要素来进行研究(这样不但节约了要素资源，也加快了研究进度)。
+当研究涉及的要素需求量都达到百分之百的时候，你会得到一个发现。右击发现可以立即学会相关知识。这时候你可以打开你的魔导手册来了解这项研究发现更多更详细的信息。
+</page>
+
+<page type="text">在研究过程中，有时候你会发现你研究的要素左上角有一个发光的数字，这说明附近环境中有一些东西给这项要素带来了增益。这种增益可能来自附近的方块，生物或者别的东西。有时候甚至研究台所处的位置都能够给某些要素带来增益。</page>
+
+</project>
+
+<project id="KNOWLEDGE">
+<name>知识碎片</name>
+<popupText>遗落的卷章碎片</popupText>
+<longText></longText>
+<page type="text">在旅途中你偶然发现了一些古代遗迹以及失落的知识。有时候那些原居民中的神秘研究者也会收集一些自古代就失落的知识。就零散的碎片而言它们毫无价值，但当你收集足够多的碎片之时，你也许可以开始一些独特的研究。通常这类研究是别的手段无法触及的。
+
+知识碎片有时候会试图将你导向错误的原理，当但你试图深入研究的时候便将能够揭示出错误。一旦遇到这种情况，大部分知识碎片会退还到你手中。而这可能意味着这项失落知识的研究中，你现在已经别无手段。</page>
+<page type="crafting">KNOWLEDGE</page>
+</project>
+
+<project id="GREATWOOD">
+<name>宏伟之木</name>
+<popupText>活化石之树</popupText>
+<longText></longText>
+<page type="text">这种枝繁叶茂的大树常常能够在郊外发现。
+
+其木材由于吸收了大量的魔力能量，因此是制作神秘学的建筑以及设备的最佳材料。</page>
+</project>
+
+<project id="SILVERWOOD">
+<name>银树</name>
+<popupText>神秘之树</popupText>
+<longText></longText>
+<page type="text">这种罕见的神奇的树木算得上奇妙的景观。其枝叶散放着蕴含魔力能量的光芒，其柔韧白皙的干部则因其净化咒波的能力而非常有价值。
+
+这种神秘的树木心部还常常能够孕育出一个灵气节点，这种特性让银树树苗足以成为一种比珍宝更贵重的奖励。
+</page>
+</project>
+
+<project id="SHIMMERLEAF">
+<name>水银花</name>
+<popupText>魔力之花</popupText>
+<longText></longText>
+<page type="text">这种奇怪的发光的小花只生长在银树的树荫下。它们是一种出产水银而不是花蜜的植物。</page>
+</project>
+
+<project id="CINDERPEARL">
+<name>火焰花</name>
+<popupText>元素植物</popupText>
+<longText></longText>
+<page type="text">这些植物随着熊熊的元素烈火而生长，只能在炎热气候的地区发现。它们能够被采集并且研磨成重要的炼金材料之一：烈焰粉。</page>
+</project>
+
+<project id="ENCHANTS">
+<name>奥术附魔</name>
+<popupText>新附魔技术</popupText>
+<longText></longText>
+<page type="text">神秘使懂得许多种独特的附魔技术。
+
+急迫:
+该附魔可用于鞋子上，穿戴者在陆地上的速度将能够随着附魔等级的提高而得到显著加成。
+
+修复:
+具有该附魔效果的物品能够缓慢地吸收空气中的灵气来恢复自身耐久度。修复速度随着附魔等级而提高。这种附魔只能用于部分神秘物品，只是部分哦!
+</page>
+<page type="text">
+潜能 (仅用于法杖):
+具有该附魔效果的法杖威力更强，作用范围更大。
+
+朴素 (仅用于法杖):
+具有该附魔效果的法杖耐久消耗更慢。
+
+充能 (仅用于法杖):
+具有该附魔效果的法杖能够从灵气中吸收能量。
+
+瑰宝 (仅用于采掘之杖和更替之杖):
+类似时运附魔的效果。 
+</page>
+</project>
+
+
+<project id="TALLOW">
+<name>魔力油脂</name>
+<popupText>魔力熬制的油脂</popupText>
+<longText>在坩埚中加热肉类，你相信你能够制作出一种能够应用于许多奥术研究的神秘油脂。</longText>
+<page type="text">你已经洞悉了再坩埚中熬制肉类获取附魔的油脂的秘密，并且能够用这些油脂来制作魔法蜡烛。
+你确信随着你的魔导知识进一步提升，油脂还能有更多用途。
+</page>
+<page type="crucible">TALLOW</page>
+<page type="arcanecrafting">TALLOW</page>
+<page type="text">在奥术工作台上可以用油脂蜡烛和颜料制作各种彩色蜡烛。</page>
+</project>
+
+<project id="THAUMIUM">
+<name>神秘锭</name>
+<popupText>魔导金属</popupText>
+<longText>你已经发现如何向普通的金属灌注魔导力。你希望这样得到的金属相比普通金属能够具备高强度以及高韧性。 </longText>
+<page type="text">神秘锭，是基本的金属要素糅合基本的魔导力得到的产物。这样的组合使得这种金属相比铁具备更高的强度，并对魔力亲和性很高，能够比铁制品更好地被附魔。 
+这种材料还是很多高等魔法物品的制作材料。
+
+它也可以用来制作工具，武器，装备等。合成与其他类似物品相同。
+</page>
+<page type="crucible">THAUMIUM</page>
+<page type="crafting">THAUMIUM_SWORD</page>
+<page type="crafting">THAUMIUM_PICKAXE</page>
+<page type="crafting">THAUMIUM_AXE</page>
+<page type="crafting">THAUMIUM_SHOVEL</page>
+<page type="crafting">THAUMIUM_HOE</page>
+<page type="crafting">THAUMIUM_HELM</page>
+<page type="crafting">THAUMIUM_CHEST</page>
+<page type="crafting">THAUMIUM_LEGS</page>
+<page type="crafting">THAUMIUM_FEET</page>
+</project>
+
+<project id="ELEMENTALAXE">
+<name>奔流斧</name>
+<popupText></popupText>
+<longText>是时候验证神秘锭到底能凝聚多少元素力量了。你现在已经发现该如何将灌注的水元素的神秘锭打造为一柄非凡的魔斧。</longText>
+<page type="text">与水元素相关的神秘造物，如霜星之杖，又如奔流斧，兼具运动与流动的属性。
+
+奔流斧，除了对木材和原木使用外，与普通斧头相比无甚特殊之处。当用它来采伐木头的时候，它会首先将与这个方块相连最远的方块采掘并吸收过来。因此你可以用这柄斧头从上到下地砍树。
+
+                    [转页]</page>
+<page type="infusioncrafting">ELEMENTALAXE</page>
+<page type="text">另外，奔流斧采掘的目标能够自动流向其使用者。
+
+如果你长按右键的同时使用斧头，将会消耗更多耐久，但以更快的速度来采伐目标木材或原木。
+
+按住潜行键则可以抑制其特殊效果，将其作为普通斧头使用。</page>
+</project>
+
+<project id="ELEMENTALPICKAXE">
+<name>炽心镐</name>
+<popupText>熔岩之心</popupText>
+<longText>是时候验证神秘锭到底能凝聚多少元素力量了。你现在已经发现该如何将灌注的火元素的神秘锭打造为一柄非凡的魔镐。</longText>
+<page type="text">与火元素相关的造物，如烈焰之杖，如炽心镐，具有热量与熔炼等属性。
+
+使用炽心镐采掘金属矿物的时候会有一定几率挖掘到原生矿物，这种矿物非常便于加工，且冶炼时具有双倍的矿锭产出。
+
+炽心镐也用于探索贵重元素。右键后能够发现某区域内最贵重的元素属性是什么，以此可以指引神秘使发现矿物的方向以及位置。
+                    [转页]</page>
+<page type="infusioncrafting">ELEMENTALPICKAXE</page>                    
+<page type="text">按住潜行键则可以抑制其特殊效果，将其作为普通镐子使用。</page>
+</project>
+
+<project id="ELEMENTALSWORD">
+<name>风雷剑</name>
+<popupText>一朝鼓角鸣地中</popupText>
+<longText>是时候验证神秘锭到底能凝聚多少元素力量了。你现在已经发现该如何将灌注的风元素的神秘锭打造为一柄非凡的魔剑。</longText>
+<page type="text">怒气属性的神秘造物包括雷光之杖以及这柄风雷剑。
+
+攻击敌人时可以触发连锁闪电特性，弹射的电弧将会波及次要目标。
+
+右键格挡的时候则召唤一道缠绕你自身的旋风，将你的敌人以及任何实体目标吹开。</page>
+<page type="infusioncrafting">ELEMENTALSWORD</page>
+</project>
+
+<project id="ELEMENTALSHOVEL">
+<name>后土铲</name>
+<popupText>中央土，其神后土</popupText>
+<longText>是时候验证神秘锭到底能凝聚多少元素力量了。你现在已经发现该如何将灌注的土元素的神秘锭打造为一柄非凡的魔铲。</longText>
+<page type="text"> 采掘方面的神秘应用包括采掘之杖以及这柄后土铲。
+
+用来挖掘沙子，泥土以及相似物品的时候能够一次性挖掘3x3的范围。
+
+此外，这柄铲子还能用于建筑。右击某方块的时候它会试图水平放置3x3的相同方块。当然你的物品栏中必须有足够的同种方块。
+
+按住潜行抑制其特效，可以作为普通铲子使用。</page>
+<page type="infusioncrafting">ELEMENTALSHOVEL</page>
+</project>
+
+<project id="ELEMENTALHOE">
+<name>句芒锄</name>
+<popupText>盛放玫瑰不胜娇</popupText>
+<longText>是时候验证神秘锭到底能凝聚多少元素力量了。你现在已经发现该如何将灌注的自然元素的神秘锭打造为一柄非凡的魔锄。 </longText>
+<page type="text">更替之杖的技术应用于农牧业，就有了这种魔力之锄。
+
+这柄神奇的锄头可以3X3地高效耕地。对种子或者幼苗使用还会产生类似骨粉催肥的效果，它甚至可以催熟一些骨粉无法起效的植物。不过催化效果消耗耐久较多。
+
+按住潜行抑制其特效，可以作为普通锄头使用。</page>
+<page type="infusioncrafting">ELEMENTALHOE</page>
+</project>
+    
+<project id="BASTRANS">
+<name>基础嬗变学</name>
+<popupText>炼金术</popupText>
+<longText>通过研究炼金术理论和金属原理，你认为你找到了将基本的金属炼化成黄金的办法。</longText>
+<page type="text">现在你能够将基本的金属材料炼化为金粒了。但这种转化并非无损的，不过黄金这样的好东西一个人也不可能过分占有，对吧？</page>
+<page type="crucible">BASTRANS</page>
+</project>
+
+<project id="TRANSIRON">
+<name>嬗变学：铁</name>
+<popupText>炼铁术</popupText>
+<longText>已经掌控了炼金术，现在可以研究炼铁了。</longText>
+<page type="text">现在你能够将基本的金属材料炼化为铁粒了。</page>
+<page type="crucible">TRANSIRON</page>
+</project>
+
+<project id="TRANSCOPPER">
+<name>嬗变学：铜</name>
+<popupText>炼铜术</popupText>
+<longText>已经掌控了炼金术，现在可以研究炼铜了。</longText>
+<page type="text">现在你能够将基本金属材料炼化为铜粒了。</page>
+<page type="crucible">TRANSCOPPER</page>
+</project>
+
+<project id="TRANSTIN">
+<name>嬗变学：锡</name>
+<popupText>炼锡术</popupText>
+<longText>已经掌控了炼金术，现在可以研究炼锡了。</longText>
+<page type="text">现在你能够将基本金属材料炼化为锡粒了。</page>
+<page type="crucible">TRANSTIN</page>
+</project>
+
+<project id="TRANSSILVER">
+<name>嬗变学：银</name>
+<popupText>炼银术</popupText>
+<longText>已经掌控了炼金术，现在可以研究炼银术了。</longText>
+<page type="text">现在你能够将基本金属材料炼化为银粒了。</page>
+<page type="crucible">TRANSSILVER</page>
+</project>
+
+<project id="TRANSLEAD">
+<name>嬗变学：铅</name>
+<popupText>炼铅术</popupText>
+<longText>已经掌控了炼金术，现在可以研究炼铅术了。</longText>
+<page type="text">现在你能够将基本金属材料炼化为铅粒了。</page>
+<page type="crucible">TRANSLEAD</page>
+</project>
+
+<project id="ALUMENTUM">
+<name>源动之焰</name>
+<popupText>神秘的能量团</popupText>
+<longText>一团伴随着跳动火焰的物质，轻微的颠簸便可能导致一次剧烈的能量释放。这种不稳定的能源可能能成为很高效的燃料。</longText>
+<page type="text">一团伴随着跳动火焰的物质，轻微的颠簸便可能导致一次剧烈的能量释放。这种不稳定的能源可能能成为很高效的燃料。
+
+如果你不是特别喜欢爆炸的话就别把它随便丢出去。</page>
+<page type="crucible">ALUMENTUM</page>
+</project>
+
+<project id="GUNPOWDER">
+<name>火药</name>
+<popupText>并非爬行者的特产</popupText>
+<longText>虽然你可能已经把源动之焰当手雷丢着玩了，但你未必会对TNT失去兴趣。</longText>
+<page type="text">你已经发现了制作火药储备的办法。不再需要为了爆炸物去猎杀爬行者了。</page>
+<page type="crucible">GUNPOWDER</page>
+</project>
+    
+<project id="NITOR">
+<name>闪耀之光</name>
+<popupText>永恒的花火</popupText>
+<longText>这团发光的花火靠魔力来自己燃烧。这种不灭的永恒之光并不产热，因此无法用作燃料。但是它们足够稳定，可以用来作为光线以及能量的来源。</longText>
+<page type="text">这团发光的花火靠魔力来自己燃烧。这种不灭的永恒之光并不产热，因此无法用作燃料。但是它们足够稳定，可以用来作为光线以及能量的来源。</page>
+<page type="crucible">NITOR</page>
+</project>
+    
+<project id="THAUMOMETER">
+<name>魔导罗盘</name>
+<popupText>魔力感应仪</popupText>
+<longText>你相信这个神秘的设备能够指引你附近魔力能量的方向。</longText>
+<page type="text">魔导罗盘是一种神秘的类似指南针那样的设备, 它会为你指示离你最近位置灵气场的中心。
+你相信你在未来一定能够制作出更多性能更好的设备来发现关于灵气节点更多的信息。但现在你必须制作这个。
+
+</page>
+<page type="arcanecrafting">THAUMOMETER</page>
+</project>
+    
+<project id="GOGGLES">
+<name>揭示之护目镜</name>
+<popupText>无漏不查</popupText>
+<longText>根据魔导罗盘的原理，你优化了其能力制作出了另一种用于探知的魔法道具。
+
+你希望透过魔法透镜能够清晰地感应灵气以及咒波。
+</longText>
+<page type="text">揭示之护目镜是探索神秘世界的最佳装备之一。戴上它，你不但能用肉眼看见灵气节点，还能看到相邻节点间的互动变化。 
+
+戴着眼镜的时候注意留意咒波变化，当其突然增加的时候可能会导致这个眼镜活跃的反馈，并引起些轻度不适。
+
+有时这个眼镜会让你看见一些凡人看不见的情景。</page>
+<page type="infusioncrafting">GOGGLES</page>
+</project>
+
+<project id="ROBES">
+<name>神秘使法袍</name>
+<popupText>既有款又有型</popupText>
+<longText>你已经掌握了附魔布匹的制造技术，现在你需要学以致用，那么试着做套衣服吧。</longText>
+<page type="text">附魔布匹的套装闪亮出场。具有皮革套的护甲值，但耐久高出很多。
+
+此外，具有很好的魔力亲和力，能够附魔出比许多更加昂贵的装备更强大的属性。
+
+另外，能够让神秘使更高效地使用法杖，减免少量魔力消耗。</page>
+<page type="arcanecrafting">ROBE_CHEST</page>
+<page type="arcanecrafting">ROBE_LEGS</page>
+<page type="arcanecrafting">ROBE_FEET</page>
+</project>
+    
+<project id="MAGBLOCK">
+<name>魔法建筑方块</name>
+<popupText>堆在一起吧!</popupText>
+<longText>一直以来你都在研究的将魔力融合进圆石，木材和金属来制作神秘的构造材料的技术。</longText>
+<page type="text">你已经发现一种方法来兼顾石材的坚固和神秘锭的韧性。研究的产物便是这种耐磨抗用的方块。
+
+更重要的是，这些奥术石材能够用于构筑一些神秘的建筑或者构造(比如魔法塔的基座)。
+
+魔力核心让这种石材具备无数定制搭配的功能。
+
+你也发现了类似应用在木材上的技术：制作奥术木料的方法。</page>
+<page type="arcanecrafting">MAGBLOCK</page>
+<page type="arcanecrafting">ARCWOOD1</page>
+<page type="arcanecrafting">ARCWOOD2</page>
+<page type="text">如图那样2X2地放置4个奥术石材，并对其使用法杖可以创建注魔坛。
+
+注魔坛是相较奥术工作台更高级的合成设备，具有其低级版本的全部功能。此外，它还能用于合成有要素需求的更加强力的物品。需求的要素会显示在界面的下方。注魔坛可以利用其比邻的坩埚或者罐子中的要素。
+
+当要素齐备，魔力充足(由放置在右下角的魔杖提供)，材料以及摆放符合规律，就能合成你想要的物品。
+                        [转页]</page>
+<page type="compoundcrafting">INFBENCH</page>
+<page type="text">需要注意的是一种来源只能提供一个种类的要素，这个机器没有分辨要素的种类与数量的能力。不同的要素来源不能相同。
+如果来源为坩埚，你会注意到除了一种要素被利用，其他的会流失到大气中产生咒波。
+
+(按住shift一次合成多个物品，这样可以避免要素一次全部流失造成的浪费。)</page>
+</project>
+    
+<project id="ENCHFABRIC">
+<name>附魔布匹</name>
+<popupText>丝般柔顺</popupText>
+<longText>你已经用羊毛和蜘蛛丝制成过简单结实的布匹。现在你确信你能够将其附魔得到一种更加惊艳的合成材料。</longText>
+<page type="text">你用基本的魔力来灌注丝线和羊毛来得到这种耐久实用的魔法布匹。你现在还不知道它具体能做什么，不过你相信你能够想到的。
+</page>
+<page type="arcanecrafting">ENCHFABRIC</page>
+</project>
+    
+<project id="BALC">
+<name>基础炼金术</name>
+<popupText>...略微涉猎</popupText>
+<longText></longText>
+<page type="text">你已经学会了一些简单的神秘材料的创造，比如源动之焰，比如闪耀之光，再比如那些转换物质的嬗变之术。
+
+你感觉到你已经掌握了足够的炼金术知识来大展手腕。
+</page>
+</project>
+    
+<project id="BART">
+<name>基础工艺学</name>
+<popupText>略微涉猎...</popupText>
+<longText></longText>
+<page type="text">你已经思考过如何组合许多种神秘物质和材料来使得它们相得益彰。上一次灵光一现已经是很多天以前的事情了，现在你有信心开始更大规模，更加精心设计的实验。</page>
+</project>
+    
+<project id="UTFT">
+<name>神秘学的统一场论</name>
+<popupText>TOE!一切渐渐明晰。</popupText>
+<longText>这些内容你可能已经懂得一些。目前位置你并未完全掌握它，但你已经开始接触到神秘学，元素以及自然世界之间那神秘的脉络。你可要知道，知识无价!</longText>
+<page type="text">你已经统一了有关自然世界和元素世界相交织的基本理论。你终于了解到弥漫的灵气是如何渗透这世间的万事万物!
+
+带来的好处并非只有神秘学识的启蒙，还有一些特别的应用。第一个应用是你现在可以升级你的学徒之杖了。你已经知道如何制作一个专家之杖。
+
+和学徒之杖类似，它也储存了一些魔导力，但它储量更大，能够支持你需要释放更多魔力的应用。
+</page>
+<page type="infusioncrafting">WANDADEPT</page>
+</project>
+
+<project id="TTOE">
+<name>神秘学的本源论</name>
+<popupText>安啦，几乎一切知识的本源？</popupText>
+<longText>对基础元素的透彻研究让你有信心将目标放在现实世界的一些事物上。您衷心希望能通过研究实在而探究天道。</longText>
+<page type="text">你对物质结构以及神秘的世界的知识已经有了长足的进步。现在你对魔力作用在物质上的方式有了更加透彻明晰的理解。
+
+这不仅仅意味着你的学识进步，也意味着你可以制作神秘使真正的法杖。
+
+和专家之杖类似，但新的神秘使之杖能够储存更多魔力，用于更加复杂的魔法中。
+</page>
+<page type="infusioncrafting">WANDMAGE</page>
+</project>
+    
+<project id="WANDFIRE">
+<name>烈焰之杖</name>
+<popupText>点亮他们</popupText>
+<longText>你对学徒之杖的魔力波动已经相当熟悉适应。现在我们来做一柄用于战斗和毁灭的烈焰之杖吧。</longText>
+<page type="text">你对这种附魔学徒之杖的魔力波动已经相当熟悉适应。它能够汇集火元素，然后燃烧掉面前的一切。
+
+然而这种法杖牺牲了从大气中吸收灵气来补充魔导力的能力，因此当法力耗尽，法杖就会损坏。
+</page>
+<page type="infusioncrafting">WANDFIRE</page>
+</project>
+
+<project id="WANDFROST">
+<name>霜星之杖</name>
+<popupText>复仇最好是一道冷菜</popupText>
+<longText>你对这种附魔学徒之杖的魔力波动已经相当熟悉适应，它将成为投掷霜星的战斗兵器。</longText>
+<page type="text">你对这种附魔学徒之杖的魔力波动已经相当熟悉适应，它将成为投掷霜星的战斗兵器 
+
+这柄法杖并不非常精准，四溅的霜星有时可能会打坏一些脆弱的物品。注意不要在脆弱的建筑附近使用它，此外，霜星能够化水为冰。
+
+然而这种法杖牺牲了从大气中吸收灵气来补充魔导力的能力，因此当法力耗尽，法杖就会损坏。
+</page>
+<page type="infusioncrafting">WANDFROST</page>
+</project>
+    
+<project id="WANDLIGHTNING">
+<name>雷光之杖</name>
+<popupText>...非常，非常可怕</popupText>
+<longText>你对学徒之杖的魔力波动已经相当熟悉适应。现在我们来做一柄用于战斗和毁灭的雷光之杖吧。</longText>
+<page type="text">你对这种附魔学徒之杖的魔力波动已经相当熟悉适应。现在你知道如何汇集能量来释放雷电的方法。
+
+然而这种法杖牺牲了从大气中吸收灵气来补充魔导力的能力，因此当法力耗尽，法杖就会损坏。
+</page>
+<page type="infusioncrafting">WANDLIGHTNING</page>
+</project>
+    
+<project id="WANDEXCHANGE">
+<name>更替之杖</name>
+<popupText>这个换取那个</popupText>
+<longText>研究Permutatio要素(拉丁文的魔法，能量)的过程中你作出了有趣结论：你认为你能够制作一个转换物质的更替之杖。</longText>
+<page type="text">你对这种附魔学徒之杖的魔力波动已经相当熟悉适应。你现在能够用魔法来使得转换你放置的方块与你口袋中的方块。
+
+按住潜行(shift)右击选中某种方块。当你的口袋中有这种方块的时候，点击你面前的方块，你之前选中的方块就会与之发生替换。若右击则会对一片方块发生作用。
+
+你必须携带足够多的替换用方块，被替换的方块会被放置到你的物品栏中。
+只有至少有一面暴露在外的方块或者非实体能够被替换。
+</page>
+<page type="infusioncrafting">WANDEXCHANGE</page>
+</project>
+    
+<project id="WANDEXCAVATE">
+<name>采掘之杖</name>
+<popupText>大地啊大地</popupText>
+<longText>将魔法应用在采掘上是合乎逻辑的研究步骤，研究采掘的道具将照亮你的神秘使之路。</longText>
+<page type="text">你对学徒之杖的魔力波动已经相当熟悉适应。你已经能够将其制作成一种采掘工具。 
+
+将这种工具指向你想挖掘的地方，让魔法完成剩下的所有事情。更坚硬的材料将会花费更长的时间，除了泥土，石头和常见材料外的东西也会更花时间。
+</page>
+<page type="infusioncrafting">WANDEXCAVATE</page>
+</project>
+    
+<project id="HUNGRYCHEST">
+<name>饕餮箱子</name>
+<popupText>无需每次都打开</popupText>
+<longText>你意识到也许你可以制作一个具有自我意识并且能动作的箱子。能往自己身体里塞东西的箱子肯定很有用。</longText>
+<page type="text">只要物品落在附近，饕餮箱子便能自动拾取这些物品。
+</page>
+<page type="infusioncrafting">HUNGRYCHEST</page>
+</project>
+    
+<project id="PORTABLEHOLE">
+<name>便携式洞穴</name>
+<popupText>妈妈再也不担心你回不了家</popupText>
+<longText>你开始进军空间魔法领域并且有了一些有趣的结论。你认为你能够做出一样东西可以暂时地破开物质世界前往其他位面。</longText>
+<page type="text">你已经成功地创造了便携式洞穴。简单得对着墙壁使用它就能产生通向另一面的空间通道。
+这个通道只能维持数秒并且会消耗其破开物质数量那么多的能量。而且这个道具不能自己从大气中补充能量。
+
+便携式洞穴可能无法破开某些复杂的物质。
+</page>
+<page type="infusioncrafting">PORTABLEHOLE</page>
+</project>
+
+<project id="MIRROR">
+<name>魔镜</name>
+<popupText>反思时间</popupText>
+<longText>暂时将物体转移到位面之间的隙间被证明是可能的，但你确信你还能做更多事情。任何懂得些许魔法尝试的人都会意识到镜子也许能够连接到其他的空间，那么何不尝试研究以镜子为基础的空间魔法物品呢?</longText>
+<page type="text">现在你研究出一种可以链接不同空间的神奇魔镜。通过镜子的物品能够在不同位置，甚至不同位面间相互传递。
+
+不幸的是空间通道对像你这样的实体生物非常排斥。因此用这种魔镜来传输生物暂时是不可能的。
+
+要链接一对魔镜，你需要将其中一面镜子安装在目标位置。并用第二面镜子  
+</page>
+<page type="infusioncrafting">MIRRORGLASS</page>
+<page type="text">右击第一名镜子，并安装在需要的位置。当两面都装好后会建立连接，镜面会出现黑洞的图案。当你将物品投入其中，物品会自动从另一个镜子被抛出。
+
+魔镜只能成对链接。当安装好后不能与第三个魔镜建立链接。当你拆卸后重新安装魔镜的时候，它能够自动回忆上次建立配对的魔镜。 拆卸配对的魔镜后，你也能很方便地用它建立新的链接。
+
+当然，运输物品必然会有消耗，按16件物品会消耗1点当地灵气计算。
+</page>
+<page type="infusioncrafting">MIRROR</page>
+</project>
+
+<project id="HANDMIRROR">
+<name>魔力手镜</name>
+<popupText>镜中奇缘</popupText>
+<longText>魔镜研究取得了成功，你决定研制其便携版本。</longText>
+<page type="text">魔力手镜类似普通的魔镜。但首先，正如其名，它可以随身携带，手持已经链接到目标魔镜的手镜右击就可以打开界面，将物品放入魔镜中的格子即可以实现传递，他们会被另一端的魔镜吐出来。
+
+其次，魔力手镜能够随时链接到新的魔镜上。
+
+                        [转页]  
+</page>
+<page type="infusioncrafting">HANDMIRROR</page>
+<page type="text">需要注意的是魔力手镜只能传出物品，不能接收，而且消耗的灵气也比普通的魔镜多。</page>
+</project>
+    
+<project id="GOLEMANCY">
+<name>傀儡学</name>
+<popupText>魔力工人</popupText>
+<longText>你对运动学，生物学的研究要结出硕果了。你相信你能够应用它们来制作属于你的魔力仆人。</longText>
+<page type="text">你已经发现了制作傀儡的秘密。 铁傀儡应用有限，并且难以控制(根本无法控制)，这实在令人印象深刻。这是你迫切需要解决的一些问题。
+
+你的傀儡工人门不仅仅可控，还具备足够的意志和自我意识来成为有用的工具。对其使用法杖能够将其回收。
+
+通过用各种材料构筑身体并且链接核心，你制作出了执行你命令的傀儡仆人。
+                        [转页]
+</page>
+<page type="infusioncrafting">GOLEMANCY</page>
+<page type="text">木质傀儡只能用伟大之木来制作。他们仅仅是你在傀儡学研究上的起步并且实用性有限。
+
+将他们放置在箱子或者类似容器附近，他们会高度注意周围的情况。当附近有掉落物品出现的时候，他们会冲向这些物品，捡起来放到容器里去。
+
+对于不同位置物品效果不同的容器(比如熔炉),傀儡能够将物品放置在傀儡被放置的方位侧的物品栏中。所以把一个木质的傀儡放在熔炉的顶部可以让他将物品放进熔炉内部上面的格子里。
+
+</page>
+<page type="infusioncrafting">C_GOLEMWOOD</page>
+</project>
+
+<project id="GOLEMANCYADV">
+<name>高级傀儡学</name>
+<popupText>进一步的研究</popupText>
+<longText>考虑到你已经精擅傀儡艺术，是时候进一步发掘其能力，不在将其简单视为劳动力的时候到了：他们有转化为战士的潜力。</longText>
+<page type="text">你设法改造傀儡的身体，让他们更强壮，更敏捷。因此这种思路下的产物将会有足够敏捷和强壮的身体来投身战斗。相比傀儡工人，这种傀儡能够以其两倍的速度恢复自身的损伤。
+
+你的第一项学以致用是铁傀儡守卫。这种傀儡被放置后，能够守卫一个区域，自动攻击入侵的怪物。更加聪明的版本则能设置攻击目标(如设置忽略爬行者来避免不必要的爆炸)。不幸的是这些傀儡目前局限于近身肉搏的战斗，还不会远程或者魔法攻击。
+</page>
+<page type="infusioncrafting">C_GOLEMIRON</page>
+</project>
+    
+<project id="GOLEMFAST">
+<name>傀儡运动核心：速度</name>
+<popupText>加速吧我的小傀儡们!</popupText>
+<longText>你相信你能够优化基础的傀儡运转核心来让你制作和控制的傀儡能够比平常更加迅捷。</longText>
+<page type="text">你已经破解了为傀儡核心增压来获取更强动力的办法。用这个核心制作的傀儡能够比其他种类的傀儡都迅捷。
+</page>
+<page type="infusioncrafting">GOLEMFAST</page>
+</project>
+
+<project id="GOLEMSMART">
+<name>傀儡运动核心: 聪慧</name>
+<popupText>聪明的傀儡</popupText>
+<longText>你相信你能够优化基础的傀儡运转核心来让你制作和控制的傀儡能够比平常更加聪慧。</longText>
+<page type="text">这个核心制作的傀儡更加聪慧节能，他们能够多线程执行任务并且在必要时智能决策。
+</page>
+<page type="infusioncrafting">GOLEMSMART</page>
+</project>
+
+<project id="GOLEMSIGHT">
+<name>傀儡运动核心: 细致</name>
+<popupText>细致的傀儡</popupText>
+<longText>你认为你能够优化基础的傀儡运转核心来让你制作和控制的傀儡能够比平常更加细致。</longText>
+<page type="text">用这个核心制作的傀儡有更大的感知范围，能够在更远的范围内执行任务，并且留意到普通傀儡看不见的情况。
+</page>
+<page type="infusioncrafting">GOLEMSIGHT</page>
+</project>
+
+<project id="GOLEMSTRONG">
+<name>傀儡运动核心: 强壮</name>
+<popupText>强壮的傀儡</popupText>
+<longText>你相信你能够优化基础的傀儡运转核心来让你制造和控制的傀儡能够比平常更加强壮。</longText>
+<page type="text">用这个核心制作的傀儡能够搬运平常两倍多的物品，并且加强其伤害。
+</page>
+<page type="infusioncrafting">GOLEMSTRONG</page>
+</project>
+    
+<project id="GOLEMSTONE">
+<name>石质傀儡</name>
+<popupText>把东西搬运到别处</popupText>
+<longText>深入研究石头的理论后，你认为你能够将其应用于制作新的傀儡。这会让你的新作品能够在从容器中放置或者拿出物品。</longText>
+<page type="text">石质傀儡更加坚固，却比木质的更加灵活。他们搬空指定容器内的物品到用特定标记方块指定的容器内。(转下页可看相关内容)。
+
+并且，你能够指定他们搬运特定物品，使其忽略其他物品。
+
+就像木质傀儡，他们足够聪明懂得将物品放入你指定的容器格子中。
+</page>
+<page type="infusioncrafting">C_GOLEMSTONE</page>
+<page type="text">标记方块为石质傀儡指定他们携带物品所要放置的目标容器。 
+
+标记方块需要放置在这个目标容器的旁边。当傀儡经过时，他会从他的行李箱子中拿出物品放到其标记的容器中。
+默认情况下傀儡会往所有的标记容器里丢物品，但是也可以通过指定颜色来让其有固定的目标。
+
+标记方块放置的方位很重要，这决定了傀儡将物品放在容器内哪一侧的格子中。
+</page>
+<page type="crafting">MARKERBLOCK</page>
+</project>
+
+<project id="GOLEMCLAY">
+<name>粘土傀儡</name>
+<popupText>仓库管理</popupText>
+<longText>对于泥土和石头要素的进一步研究让你可能造出这种更精致的石偶。你相信用粘土制作的傀儡能够为你保管指定箱子的物品。</longText>
+<page type="text">粘土傀儡比石质傀儡更加精致灵巧。相比石头的同伴，他们可以保管你指定容器内的物品：他们会在周围一定范围内被标记的容器中拿出你指定的物品，并放到依附的箱子中。就像那些石头傀儡那样，你可以指定某种颜色的标记，或者所有颜色的标记。
+
+和低级的傀儡一样，这些粘土傀儡懂得将方块放进容器内对应侧的格子中。
+</page>
+<page type="infusioncrafting">C_GOLEMCLAY</page>
+</project>
+
+<project id="GOLEMSTONEADV">
+<name>高级石质傀儡</name>
+<popupText>版本2.0</popupText>
+<longText>你突然想到若是用缸中之脑来作为普通石质傀儡的部件，应该就能做出更加聪明灵活，多才多艺的傀儡。你现在只需要找到一个缓冲震动，防止大脑被震碎的办法。</longText>
+<page type="text">成功了!将缸中之脑植入傀儡的头部后，显著提高了其智商，让他们可以思考更加复杂的问题。 这项成果的表现远超预期，以至于傀儡们表现出令人不安的独立性。因此你觉得这种傀儡最好不要用运转核心来提高功率。 
+
+这种高级傀儡工作方式类似普通版本，但你会发现你有6个可以分配到颜色标记的格子来指示傀儡如何从目标箱子中拿取合适的物品。
+</page>
+<page type="infusioncrafting">GOLEMSTONEADV</page>
+</project>
+
+<project id="GOLEMCLAYADV">
+<name>高级粘土傀儡</name>
+<popupText>版本2.0</popupText>
+<longText>你突然想到若是用缸中之脑来作为普通粘土傀儡的部件，应该就能做出更加聪明灵活，多才多艺的傀儡。你现在只需要找到一个缓冲震动，防止大脑被震碎的办法。</longText>
+<page type="text">成功了!将缸中之脑植入傀儡的头部后，显著提高了其智商，让他们可以思考更加复杂的问题。 这项成果的表现远超预期，以至于傀儡们表现出令人不安的独立性。因此你觉得这种傀儡最好不要用运转核心来提高功率。
+
+这种高级傀儡工作方式类似普通版本，但你会发现你有6个可以分配到颜色标记的格子来指示傀儡如何分配物品到不同的目标中。
+</page>
+<page type="infusioncrafting">GOLEMCLAYADV</page>
+</project>
+
+
+<project id="GOLEMTALLOW">
+<name>油脂傀儡</name>
+<popupText>炼金助手</popupText>
+<longText>你已经有一堆帮你搬运物品的仆从，下面应该研究能够成为你实验助手的傀儡了。</longText>
+<page type="text">油脂傀儡的构筑材料里包含有机材料，这赋予了他们灵活性以及高智能。
+
+油脂傀儡非常适合神秘实验-确切地说是炼金实验的辅助工作。这并不奇怪，他们的身体材料就是炼金术的产物。
+
+当提供他们一个水桶，并且为他们标记一个水源(比如一个2X2的无限水配合一个标记方块)，他们就能够为依附的坩埚持续添水。
+                        [转页]
+</page> 
+<page type="infusioncrafting">C_GOLEMTALLOW</page>
+<page type="text">他们的灵活性让他们能够像人类那样使用炼金和魔导设备。
+
+因此你并不需要很多油脂傀儡，一个已经能处理所有关联设备的全部工作。
+</page>
+</project>
+
+<project id="GOLEMTALLOWADV">
+<name>移液傀儡</name>
+<popupText>液体运输工</popupText>
+<longText>油脂傀儡证明了自己在实验室工作里的能量，但它们仅仅只擅长为坩埚添水，要素运输上也导致了很多浪费。他们一定能够改造得更聪明，更灵活，更少浪费要素。</longText>
+<page type="text">你已经发现如何制造移液傀儡。它们都随时携带着一个要素罐子用以运输包括要素在内的各种液体。每个罐子大概能盛放64个单位的要素或者4桶其他液体。
+
+放置在蒸馏器旁边的移液傀儡就像油脂傀儡那样干活，但再也不会浪费成箱放的玻璃瓿。
+
+当放置在液体容器旁边的时候，它们会试图从标记的液体来源处取得合适的液体来填满这个容器。你可以为其指定特定的液体或者要素。
+</page> 
+<page type="infusioncrafting">GOLEMTALLOWADV</page>
+</project>
+
+<project id="GOLEMSTRAW">
+<name>稻草傀儡</name>
+<popupText>农场达人</popupText>
+<longText>你相信你解决了增强傀儡感知能力的办法。那么制作一个用于种植和收获作物的傀儡是这方面知识再好不过的应用实验了。</longText>
+<page type="text">稻草傀儡能够被放置在生长作物的农田附近，当作物成熟的时候，它会主动将其收获，但遗憾的是，由于其孱弱的身体结构，它没有搬运物品的能力，收获的作物将直接被搁置在农田上。
+
+一些更加聪明的稻草傀儡还能够自动在原地或者相邻的农田上播种刚才收获过的作物。
+</page>
+<page type="infusioncrafting">C_GOLEMSTRAW</page>
+</project>
+    
+<project id="BASICFLUX">
+<name>基础咒波研究</name>
+<popupText>一定有管控它们的方法!</popupText>
+<longText>你已经开始探寻是否有什么设备或者方法能够控制和限制咒波。也许银木作为能够天生抵抗咒波的材料能够给你更多线索。</longText>
+<page type="text">你已经在掌控咒波这种混乱的魔法力量的道路上迈出了第一步，你的研究让你得到了两个特别的应用成果：咒波过滤器以及奥术蒸馏器。
+
+咒波过滤器用金子以及经过特殊处理的银树制作而成，它利用银树对咒波天然的抗性来引导魔力流动，以实现部分地控制咒波。
+
+魔导过滤器不能靠自己来工作，它通常作为一些更复制机器(比如奥术蒸馏器)的部件。
+</page>
+<page type="infusioncrafting">FLUXFILTER</page>
+<page type="text">奥术蒸馏器需要依附坩埚来安装。通常来说坩埚实验中没有参与物品合成的要素会流失到大气中造成咒波，但奥术蒸馏器能够截获部分流失的要素并以单质的形式储存。
+
+奥术蒸馏器一次只能储存一种类型的要素能量，并且其储量非常有限。你可以用玻璃药瓶来盛装这些单质要素。这样这些要素就能在需要的时候被再次利用。蒸馏器中的要素也能够为注魔坛所用。
+                        [转页]</page>
+<page type="infusioncrafting">ARCANEALEMBIC</page>
+<page type="text">当坩埚中有烧沸的水的时候，对着蒸馏器使用法杖则可以让储存的要素回到坩埚里。
+</page>
+</project>
+    
+<project id="JAR">
+<name>要素罐子</name>
+<popupText>密封</popupText>
+<longText>你认为你发现了用魔力强化玻璃的办法。用这个办法做出的玻璃容器能够容纳要素。</longText>
+<page type="text">你领悟了制作这种神奇的魔法容器的工艺。这种抵御罐子能够很好地保存某些即使在通常意义上不能以物质形式保存的物品。
+
+抵御罐子能够盛放要素，你可以用玻璃药瓶来填装它。他们通常可以作为注魔坛所需要素的来源。
+如果你能够实现自动化地收集要素，那么你就能够用某些方式标记这些罐子来让其可以自动填满。
+傀儡的应用就能达成这种要求。
+
+最重要的是它们使得要素有了很好的储存容器。
+</page>
+<page type="arcanecrafting">JAR</page>
+</project>
+    
+<project id="JARBRAIN">
+<name>缸中之脑</name>
+<popupText>密封的纠缠</popupText>
+<longText>你收集这种腐烂的僵尸大脑一段时间了。有关抵御罐子的发现让你觉得也许你能够让这些大脑能够激发出生命的火花，或者至少以亡灵的形式复活。</longText>
+<page type="text">- 向罐子丢一个僵尸之脑。
+- 添加蜘蛛眼和水。
+- 回想那些邪恶的念头，然后对着它挥舞你的法杖。
+
+若你能遵循上述步骤就能得到一个会动的邪恶的缸中之脑。
+
+它保留了作为僵尸的饥饿欲望却无力享用那些“美味”的脑子。但它仍然会试图收集那些在其附近死亡的生灵的思想和经验(以经验球的实体形式出现)。
+当你摇一摇容纳它的罐子，它会把这些不义之财放弃一部分交给你。
+</page>
+<page type="infusioncrafting">JARBRAIN</page>
+</project>
+    
+<project id="ARCANEDOOR">
+<name>守卫者</name>
+<popupText>禁止入内</popupText>
+<longText>一些随性的实验看来导致了一个有趣的发现：一种让不会动的方块产生记忆的能力。你首先尝试让方块和门来记住谁放置了它们。</longText>
+<page type="text">除了放置者，这些方块对任何凡人来说都无法破坏。另外，它还能高度防爆。
+
+一系列的彩色方块让你的魔导研究有更多选择来迎合时尚。</page>
+<page type="arcanecrafting">WARDEDSTONE</page>
+<page type="text">类似守卫者方块，不过它们是透明的。</page>
+<page type="arcanecrafting">WARDEDGLASS</page>
+<page type="text">就像守卫者方块一样，这个门同样对非主人来说无法被破坏。另外非主人也无法开启这个门。
+
+其主人可以合成铁钥匙和金钥匙来允许其他人能给打开奥能之扉。
+
+                    [转页]</page>
+<page type="infusioncrafting">ARCANEDOOR</page>
+<page type="text">合成一把铁钥匙，向你的奥能之扉示意后把它交给其他人，当这个人出示钥匙后就能永久性地获得进出的权利。
+
+如果需要更高的权限，则需要金钥匙。
+                    [转页]</page>
+<page type="arcanecrafting">IRONKEY</page>
+<page type="text">金钥匙和铁钥匙功能类似。但向奥能之门扉出示过金钥匙的人可以和其他人分享铁钥匙来使其获得奥能之扉的进出权限。
+
+更高的权限，诸如使用法杖来破坏门的权限，则只有门的原始主人具有。</page>
+<page type="arcanecrafting">GOLDKEY</page>
+</project>
+
+<project id="ARCANEPLATE">
+<name>奥术压力盘</name>
+<popupText>压力盘+</popupText>
+<longText>守卫者系列产品大放异彩，但你绝不满足。你的新目标是一种神奇的压力盘：它只能回应主人或者除了主人之外的其他人。</longText>
+<page type="text">这种压力盘具有三大新奇的特性：
+首先，你可以设置它为三种不同的模式：像木质压力盘一样响应所有实体，忽视主人，或者忽视主人外的任何对象。
+
+其次，像所有守卫者系列产品一样，只有你能破坏它。
+
+最后，你可以用它来开启奥能之扉，其权限也可以通过钥匙系统来共享。
+</page>
+<page type="infusioncrafting">ARCANEPLATE</page>
+</project>
+    
+<project id="INFERNALFURNACE">
+<name>地狱熔炉</name>
+<popupText>够热?</popupText>
+<longText>如果妥善得加以利用，下界普遍出现的烈焰人这样的元素生物也许能够提供制作完美热源的素材。</longText>
+<page type="text">通过捕获烈焰人并利用他们的能量，你用下界砖以及黑曜石构筑了这个高效且不需要任何燃料的熔炉。实际上，它是如此的高效，有时甚至会加倍地以颗粒或者锭状的形式产出所烧的矿物。
+
+不过它确实消耗了一些大气中的魔力。还应该注意到的是这个魔力造物很脆弱，有时还会产生一些咒波，不过哪有没有风险的事情呢？
+</page>
+<page type="compoundcrafting">INFERNALFURNACE</page>
+<page type="text">将你希望烧的物品从上面投入，它会从正前方吐出产物。
+
+有时候你会想，要是你的箱子能够自己接住这个熔炉吐出来的东西就好了。
+</page>
+</project>
+
+<project id="ARCANEBELLOWS">
+<name>奥术风箱</name>
+<popupText>煽风点火</popupText>
+<longText>通过实验你发现了一些关于风之要素的有趣现象并且了然应如何对其加以利用。你认为你可以做出来一个会自己动的风箱。</longText>
+<page type="text">奥术风箱功能正如其名，不过它能够自己动作，对着需要的方向发出阵阵气流。
+
+将其安装在地狱熔炉侧面和后面的开孔处(一个熔炉可以安装3个)会出现有趣的现象：蕴含魔力的气流不仅仅加快了熔炉燃烧的速度，也让火焰更加纯净，减少了咒波的产生率，增大了产物加倍的机会。
+
+                    [转页]</page>
+<page type="infusioncrafting">ARCANEBELLOWS</page>
+<page type="text">它也能安装在普通熔炉边上来为其加速。
+
+如果安装在坩埚旁边，则能缩短水煮沸的时间。
+
+你相信你未来能发掘出它更多的应用。
+</page>
+</project>
+    
+    
+<project id="BOOTSTRAVELLER">
+<name>旅行者之靴：特步</name>
+<popupText>专业行走装备</popupText>
+<longText>对任何旅行者来说一双好的靴子都是梦寐以求的事情。一双魔力的靴子就再好不过了。它会使你跑得快，跳得高，游得猛。</longText>
+<page type="text">这双富含神秘的魔力工艺技巧的靴子专为旅行者设计。
+
+它能够让你移动得比平常更加迅速，并且能够直接掠过较高的台子。它也能够让你跳得更高，落得更远。另外，它还能让你像鱼一样破浪而行，虽然是一条相对缓慢和笨拙的鱼，可也算条鱼嘛!</page>
+<page type="infusioncrafting">BOOTSTRAVELLER</page>
+</project>    
+
+<project id="LEVITATOR">
+<name>奥术悬浮台</name>
+<popupText>下面该研究怎么飞了!</popupText>
+<longText>飞翔是男人最古老的梦想。或者起码对有的人是这样。你偶然发现了一个在有限的范围内一定程度上摆脱大地的桎梏，消除部分重力的办法。</longText>
+<page type="text">如果不考虑真正的飞翔，奥术悬浮台可算是最赞的东西之一了。
+
+放置奥术悬浮台的地方，任何物品和生物都会悬浮到离其上表面10米高的地方。任何被悬浮台飘起的物品都会被减速到只需要很少地承受掉落伤害。这样做只需要消耗大气中一点点的灵气。
+
+每个悬浮台堆叠放置可以叠加其悬浮的高度，例如若一次将三个悬浮台叠放，则能够悬浮实体的高度为30米，而假如累加足够多的悬浮台，你便能被悬浮到很高的空中。
+俯瞰山河，有没有一种指点江山，挥斥方遒的感觉呢？
+</page>
+<page type="infusioncrafting">LEVITATOR</page>
+<page type="text">悬浮台也许能为你的空中法师塔设计带来更多的亮点：无论是作为抵御入侵的陷阱还是作为前往高空的便捷方式。
+
+悬浮台可用红石信号控制开启或者关闭。</page>
+</project>    
+
+<project id="ARCANEEAR">
+<name>奥术之耳</name>
+<popupText>嘘, 你有没有听见什么?</popupText>
+<longText>声音是自然界另一门值得研究的学问。也许能将其应用在魔法上来创造某种魔力的传感设备? </longText>
+<page type="text">奥术之耳是一个能够检测附近的音符盒发声的设备。当它检测到给定音符时会发出红石脉冲。
+
+奥术之耳通过放置在不同材料上实现对应不同音色的音符盒。</page>
+<page type="infusioncrafting">ARCANEEAR</page>
+</project>    
+    
+<project id="CRYSTALCLUSTER">
+<name>魔晶</name>
+<popupText>哇喔, 真漂亮!</popupText>
+<longText>长期以来流传着蕴魔石掉落的碎片能够融合成一种魔力水晶的说法。你发现的这篇遗落的知识卷章似乎证实了这个观点。</longText>
+<page type="text">你已经发现了一种将蕴魔石碎片融合成一种更加大型，稳定的水晶状物质的方法。这种流转着魔力能量的魔晶，外型也十分养眼。
+
+这种魔晶可以缓慢地提高周围大气节点中的灵气，甚至使得灵气值超过极限。当然也可能导致产生一点咒波，不过其好处要比这点副作用大得多。</page>
+<page type="infusioncrafting">C_CRYSTALCLUSTER</page>
+</project>    
+
+<project id="CRYSTALCORE">
+<name>基础灵气控制学</name>
+<popupText>如臂使指</popupText>
+<longText>灵气节点难以寻找，且有时位置不佳。在自然情况下出现过灵气节点位置变换的现象。研究后你认为，利用控制以及交易属性的魔力也许你能够在人工条件下重现移动魔力节点位置的效果。</longText>
+<page type="text">你已经探明如何移动一个灵气节点，但非常不幸的是，这种方法极为困难，且代价高昂。
+
+首先你需要制造一个水晶核心。这个脆弱但充满魔力的构造能够捕获一个附近的魔力节点。因此你可以利用这种构造来慢慢吸引魔力节点到你希望的地方。
+
+水晶核心极其脆弱。你必须确保一次性地建造正确，否则这个结果会碎裂使得你不得不重新开始修建。</page>
+<page type="infusioncrafting">CRYSTALCORE</page>
+<page type="text">当你制造出了水晶核心，你可以将其放置于4个黑曜石图腾中。你自己并不能建造这种奇怪的建筑，但野外不难发现其踪迹。尚未探明是谁建造了它们，但它们经常位于灵气节点附近。
+
+当一切建造妥当，你需要用你的法杖激活整套设施。它会开始吸引周围半径24米内最近的灵气节点，直到灵气节点位置与你放置水晶核心的位置重合。
+
+当灵气节点被移动，它会慢慢损失灵气和咒波，直到重新稳定和平衡。
+这种损失并非永久性的。</page>
+<page type="compoundcrafting">NODEMAGNET</page>
+</project>  
+
+<project id="TINYHAT">
+<name>迷你帽子</name>
+<popupText>晒不着，淋不到</popupText>
+<longText>你读过的古代书籍记载一些小型的装饰和衣服能够有效提高傀儡的工作机能。这个就是其中的小型帽子啦。</longText>
+<page type="text">这顶漂亮的帽子对任何傀儡来说都是完美的装饰品。 它不仅能让傀儡们显得时髦，还能提高其生命值和活跃度。</page>
+<page type="infusioncrafting">TINYHAT</page>
+</project>    
+
+<project id="TINYFEZ">
+<name>迷你毡帽</name>
+<popupText>...依然这么酷!</popupText>
+<longText>你读过的古代书籍记载一些小型的装饰和衣服能够有效提高傀儡的工作机能。这个就是其中的小型毡帽啦。</longText>
+<page type="text">这顶奇怪的帽子似乎给戴上它的傀儡带来了非同一般的活力，这让它能够以很快的速度恢复受到的伤害。</page>
+<page type="infusioncrafting">TINYFEZ</page>
+</project>    
+
+<project id="TINYBOWTIE">
+<name>迷你蝴蝶结</name>
+<popupText>...真酷!</popupText>
+<longText>你读过的古代书籍记载一些小型的装饰和衣服能够有效提高傀儡的工作机能。这个就是其中的迷你蝴蝶结啦。</longText>
+<page type="text">让任何傀儡都忙个不停所必须的,这个蝴蝶结为其补充能量，加快工作节奏。</page>
+<page type="infusioncrafting">TINYBOWTIE</page>
+</project>    
+
+<project id="TINYGLASSES">
+<name>迷你眼镜</name>
+<popupText>看得更好</popupText>
+<longText>你读过的古代书籍记载一些小型的装饰和衣服能够有效提高傀儡的工作机能。这个就是其中的迷你眼镜啦。</longText>
+<page type="text">傀儡们都是出了名的近视眼，戴上这副眼镜来减少点度数吧。</page>
+<page type="infusioncrafting">TINYGLASSES</page>
+</project>    
+
+<project id="TINYDART">
+<name>傀儡飞镖发射器</name>
+<popupText>细小尖锐</popupText>
+<longText>你度过的古代文献提到过一系列战斗傀儡的武备。其中包括这种吹筒，让傀儡发射飞镖作战而非靠近肉搏。</longText>
+<page type="text">只能装备给战斗傀儡。与傀儡的直接攻击相比威力稍弱，但近身肉搏的傀儡，因此有了远程制敌的可能。</page>
+<page type="infusioncrafting">TINYDART</page>
+</project>   
+
+<project id="TINYVISOR">
+<name>傀儡面甲</name>
+<popupText>...o.</popupText>
+<longText>你度过的古代文献提到过这种面甲可以提高战斗傀儡的护甲，它还有其他好处。</longText>
+<page type="text">这种面甲提高了傀儡的护甲，并使得傀儡杀死的敌人能够掉落经验值。</page>
+<page type="infusioncrafting">TINYVISOR</page>
+</project>   
+
+<project id="TINYARMOR">
+<name>傀儡铁甲</name>
+<popupText>难啃的硬骨头</popupText>
+<longText>即使是坚固的战斗傀儡有时也无法在敌人的攻击下幸存，那么做一套其专用的铁甲吧。</longText>
+<page type="text">傀儡铁甲显著提高傀儡的物理防御能力，但以减缓其速度为代价。</page>
+<page type="infusioncrafting">TINYARMOR</page>
+</project>    
+    
+
+<project id="ARCANEBORE">
+<name>奥术钻探机</name>
+<popupText>采矿业的进化</popupText>
+<longText>你曾研究出一些神奇的采掘工具，诸如采掘之杖，又如炽心镐，但这些工具仍需你亲手劳动，无法以方便的途径探索一片广大区域。是时候设计一台为你做这些事情的奥术机器了。</longText>
+<page type="text">你已经发现一种奥术设备拥有采掘之杖的能力，并具有更大的工作范围。而且，这台机器可以无人监控地自动运行。你只需要将其安装在特别的基座上，将其方向调校正确后提供一个法杖供能，并用红石信号激活即可。
+
+奥术钻探机需要三件东西才能正常工作。第一件事是将采掘之杖放在左边的格子里，法杖的附魔效果也会被加成到钻探机上。此外，法杖将会在钻探机运行过程中损耗耐久，就像你手动使用的时候一样。</page>
+<page type="infusioncrafting">ARCANEBORE</page>
+<page type="text">其次，你需要在右边格子里放置一个任意类型的镐子。镐的材料对钻探机运行效果影响很小，但其耐久直接决定钻探机的运行时间。此外，镐子上的附魔效果也能够被加成到钻探机上。
+
+最后，钻探机的运行实际上需要消耗庞大的魔导力。
+
+奥术钻探机只能被放置在奥术钻探机基座的顶部或者底部。其采掘到的物品将会从基座的喷嘴喷吐出来。如果有箱子则会自动进入其物品栏。可以用你的法杖改变奥术钻探机的朝向。
+</page>
+<page type="arcanecrafting">ARCANEBOREBASE</page>
+
+</project> 
+
+<project id="CRYSTALCAPACITOR">
+<name>水晶电容器</name>
+<popupText>储存魔力，以备不时之需</popupText>
+<longText>你已经开始研究魔力供应问题。你怀疑过度开采已经导致灵气资源开始枯竭，现在你需要考虑人工设备来储存魔力了。</longText>
+<page type="text">你已发现一种能够储存魔力的水晶。组合八块这种水晶你制作出一台水晶电容器以储存魔力，其原理类似自然界的蕴魔石。
+水晶电容器能够储存100点灵气。当外界灵气不在其基准水平时它会自动吸收或者释放出灵气。吸收或者释放的流速为每5秒一点灵气。
+水晶电容器可以安全移动，不损失其储存的灵气。
+</page>
+<page type="infusioncrafting">CRYSTALCAPACITOR</page>
+</project>
+
+<project id="HELLROD">
+<name>九狱蝠魔杖</name>
+<popupText>棍子上的地狱！</popupText>
+<longText>你的下界之旅让你充分感受到了火焰蝙蝠的可怕。如果你能够掌控它们，你就能够做到向你的敌人内心植入恐怖。</longText>
+<page type="text">你已经发现如何召唤出这种恐怖的小怪物并指挥它们飞向敌人。
+
+你将这种力量绑定在一种特殊魔杖上，当魔杖积蓄到足够多的能量，你便能召唤火焰蝙蝠。
+
+[TEMPORARY RECIPE]</page>
+<page type="infusioncrafting">HELLROD</page>
+</project>    
+
+<project id="TRAVELSTONE">
+<name>旅行者之铺路砖</name>
+<popupText>缩地成寸</popupText>
+<longText>穿着旅行者之靴进行长途旅行能够稍微轻松些，但是有时你并不具备穿戴它的条件，或者你想让你的客人们也能享受魔力带来的便捷。你确信有一种让地板本身充满魔力的方法。</longText>
+<page type="text">你学会了向石英方块灌注大地要素的魔力。走在这种铺路砖上的人们感觉身轻如燕，脚步敏捷，弹跳力也得到加强。 </page>
+<page type="infusioncrafting">TRAVELSTONE</page>
+</project>    
+
+<project id="HOVERHARNESS">
+<name>奥法缰绳</name>
+<popupText>...它是一只鸟？</popupText>
+<longText>到目前为止你做过不少企图摆脱地心引力的尝试，但结果却证明其效果有限。该是时候做一些能够真正飞翔的尝试了。</longText>
+<page type="text">最终你解开了飞行的秘密。 你创造出一种通过使用奥法能量将自身锚定在神秘力场中，因此帮助你摆脱重力的缰绳。你认为量子和夸克在某种程度上也参与了这个过程。
+
+缰绳需要的魔力在创造的时候就已经全部加入进去，它消耗的燃料是原生的要素：潜能(Potentia)。当穿戴着缰绳的时候右击盛满的罐子来灌注要素。
+
+当穿戴着缰绳的时候双击空格键激活其功能。                          [continued]</page>
+<page type="infusioncrafting">HOVERHARNESS</page>
+<page type="text">激活的缰绳会持续消耗潜能要素(Potentia)。
+
+缰绳可以附魔急迫来提升飞行速度。</page>
+</project>      
+          
+</research>
