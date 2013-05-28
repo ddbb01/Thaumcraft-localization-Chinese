@@ -63,10 +63,10 @@
 <project id = "NAMETAG" version = "1">
 <name>傀儡命名牌</name>
 <popupText>[TT] 你好!我叫...</popupText>
-<longText>一些黑色颜料，加以魔力...好的，你决定你找到办法给你的傀儡起名了。</longText>
-<page type = "text">一种有魔力的标牌，可以让你的傀儡仆从显示它们的名字。、
+<longText>一些黑色颜料，加以魔力...好的，你觉得你找到办法给你的傀儡们起名了。</longText>
+<page type = "text">一种有魔力的标牌，可以让你的傀儡仆从显示它们的名字。
 
-首先你需要在铁砧中为傀儡命名牌改名，改成你需要的名字，之后拿着它左击对应的傀儡即可。</page>
+首先你需要在铁砧中为傀儡命名牌改名，改成你需要的名字之后拿着它左击对应的傀儡即可。</page>
 <page type = "arcanecrafting">NAMETAG</page>
 </project>
 
