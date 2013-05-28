@@ -1,0 +1,33 @@
+#zh_CN
+# for molanguage,pls check tab.mcbbc.com
+# the first line (above this, which is a comment) IS REQUIRED for MoLanguage to verify lang files
+# WARNING: this file was saved in UTF-8
+
+item.cleansingTalisman.name=驱散之护身符
+item.darkGas.name=暗影玻璃瓿
+item.darkQuartz.name=烟黑石英
+item.deathRune.name=死神之护身符
+item.enderMirror.name=末影手镜
+item.fireBracelet.name=地狱手镯
+item.fluxDetector.name=咒波罗盘
+item.fortuneMaul.name=幸运之槌
+item.gasRemover.name=暗影祛散器
+item.glowstoneGas.name=荧光玻璃瓿
+item.goliathLegs.name=巨人护腿
+item.nametag.name=傀儡命名牌
+item.silkSword.name=精准之刃
+item.spellCloth.name=祛魔布
+item.stopwatch.name=时间扭曲者的停表
+item.swordCondor.name=秃鹫之剑
+item.teleportSigil.name=回忆徽章
+item.wandDislocation.name=转移之杖
+item.wandTinkerer.name=神秘匠之杖
+item.wandUprising.name=飞升之杖
+item.xpTalisman.name=汇魔之护身符
+itemGroup.ThaumicTinkerer=神秘工匠
+tile.animationTablet.name=活化工具台
+
+tile.darkQuartzStairs.name=烟黑石英台阶
+tile.darkQuartz.name=烟黑石英方块
+tile.transmutator.name=奥术嬗变台
+tile.wardChest.name=守卫者箱子
