@@ -63,10 +63,10 @@
 <project id = "NAMETAG" version = "1">
 <name>傀儡命名牌</name>
 <popupText>[TT] 你好!我叫...</popupText>
-<longText>一些黑色颜料，加以魔力...好的，你觉得你找到办法给你的傀儡们起名了。</longText>
-<page type = "text">一种有魔力的标牌，可以让你的傀儡仆从显示它们的名字。
+<longText>一些黑色颜料，加以魔力...好的，你决定你找到办法给你的傀儡起名了。</longText>
+<page type = "text">一种有魔力的标牌，可以让你的傀儡仆从显示它们的名字。、
 
-首先你需要在铁砧中为傀儡命名牌改名，改成你需要的名字之后拿着它左击对应的傀儡即可。</page>
+首先你需要在铁砧中为傀儡命名牌改名，改成你需要的名字，之后拿着它左击对应的傀儡即可。</page>
 <page type = "arcanecrafting">NAMETAG</page>
 </project>
 
@@ -96,10 +96,10 @@
 <project id = "FIRE_BRACELET" version = "1">
 <name>地狱手镯</name>
 <popupText>[TT] 掌中炼狱</popupText>
-<longText>Knowing the power of an Infernal Furnace, you are trying to figure out how to bring that power with you for better usage.</longText>
-<page type = "text">Knowing the ability of an Infernal Furnace to smelt items, you went on to study a way of using that power from your hands.
+<longText>掌握了地狱熔炉的力量后，你试图指出如何更好地利用这种力量。</longText>
+<page type = "text">洞悉地狱熔炉冶炼物品的原理后，你开始研究其便携的掌上版本。
 
-This bracelet smelts blocks in the world with a right click on them. In order for it to do so, it needs to be charged by right clicking on an active Arcane Bellows, in order to convey the energy of the furnace.</page>
+持有地狱手镯右击即可冶炼点击的方块。在这样做之前，你需要通过右击激活状态的奥术风箱来为其充能。</page>
 <page type = "infusioncrafting">FIRE_BRACELET</page>
 </project>
 
@@ -107,10 +107,11 @@ This bracelet smelts blocks in the world with a right click on them. In order fo
 <project id = "WARD_CHEST" version = "1">
 <name>守卫者箱子</name>
 <popupText>[TT] 尽可能安全</popupText>
-<longText>Knowing how safe Warded blocks can be, you are trying to find out a way to make them into item storage.</longText>
-<page type = "text">After creating, and working with Warded Blocks, you have discovered a way of making them into storage. This chest is completely safe and can only be opened by the person who placed it. It also has an extended storage space.
+<longText>掌握守卫者方块的原理后，你试图将其运用到储物方面。</longText>
+<page type = "text">创造和运用守卫者方块的经历让你突然有了一种用以安全储物的新技术的灵感。
+这种箱子完全安全，只能被放置的人开启。且相比普通的箱子，其储物空间也更大。
 
-Similarly to Warded Blocks, this chest can be removed with a wand. On a negative note, the chest lacks a keyhole.</page>
+类似守卫者方块，这个箱子能被魔杖移动。美中不足的是，这个箱子不支持钥匙。</page>
 <page type = "infusioncrafting">WARD_CHEST</page>
 </project>
 
@@ -142,7 +143,7 @@ After a sigil is bound, you can hold right click it, like a bow to charge it and
 
 <!-- ======================================== Wand of Uprising /-->
 <project id = "WAND_UPRISING" version = "1">
-<name>飞升之杖</name>
+<name>飞腾之杖</name>
 <popupText>[TT] 我相信，我能飞...</popupText>
 <longText>Knowing the power of the Sword of the Zephyr to propel foes away, you are trying to create something that will allow you to propel yourself.</longText>
 <page type = "text">Using the knowledge you got from creating the Sword of the Zephyr of propeling things around with air, you created a wand that will propel the holder in the direction that they're looking at.
@@ -217,7 +218,7 @@ Furthermore, after crafting this item, it instantly comes enchanted with the For
 <!-- ======================================== Ender Mirror /-->
 <project id = "ENDER_MIRROR" version = "1"> 
 <name>末影手镜</name>
-<popupText>[TT] Another sight</popupText>
+<popupText>[TT] 别样景像</popupText>
 <longText>After learning how to transport items using Hand Mirrors, you are thinking you can apply that knowledge to the Ender Chests.</longText>
 <page type = "text">You have put the knowledge acquired from constructing the Magic Hand Mirror into good use, and applied it to the Ender Chests.
 
@@ -272,22 +273,21 @@ To enable or disable this ability, one would shift-right click on it. As expecte
 <!-- ======================================== Fluxometer /-->
 <project id = "FLUX_DETECTOR" version = "1">
 <name>咒波罗盘</name>
-<popupText>[TT] 可见咒波</popupText>
+<popupText>[TT] 数值可视化</popupText>
 <longText>After research of the flux itself, you think that you can make use of one of your early discoveries, the Thaumometer, to measure the flux.</longText>
 <page type = "text">Through the research of the flux itself, and through usage of one of your early discoveries, the Thaumomenter, you managed to discover an upgrade for it.
 
 This new detector, the Fluxometer can measure the flux in the nearest relevant node. Whilst looking at the Fluxometer with Goggles of Revealing, the holder can see what flux is in the air. The flux displays as icons, the opacity of each icon indicates how much of that aspect is in the aura. If you look close, you can see maxed out aspects as a bit unstable.</page>
 <page type = "arcanecrafting">FLUX_DETECTOR</page>
 </project>
-
 <!-- ======================================== Lost Enchantments /-->
 <project id = "LOST_ENCHANTS" version = "1">
-<name>失落附魔技术</name>
-<popupText>[TT] 新型魔法</popupText>
+<name>遗落的附魔术</name>
+<popupText>[TT] 魔法新阶</popupText>
 <longText>The pieces of knowledge you have been connecting speak of extremely powerful enchantments on the various schools of magic. You don't know what might come out of this, but you are sure that you would need to study various different items.</longText>
 <page type = "text">Extensive research of lost knowledge revealed a set of four very powerful enchantments.
 
-These enchantments can not be enchanted trough the regular means of using an enchanting table, rather, they would need to be created by the usage of an infusion altar. Furthermore, only one of these enchantments can be applied to a specific item at any given time.</page>
+These enchantments can not be enchanted through the regular means of using an enchanting table, rather, they would need to be created by the usage of an infusion altar. Furthermore, only one of these enchantments can be applied to a specific item at any given time.</page>
 <page type = "text">Freezing: Any entity hit with this sword will recieve a freezing effect, imparing their movement. Being set on fire will negate this.
 
 Soulbringer: When a sword imbuded with this hits an undead, there's a chance for that undead to get possessed and succumb to your side.
@@ -304,8 +304,8 @@ Ashes: The only of the four enchantments that isn't only for weapons. Any item t
 <!-- ======================================== Phantom Stone Blocks /-->
 <project id = "PHANTOM_STONE" version = "1">
 <name>幻影石块</name>
-<popupText>[TT]这是真的?</popupText>
-<longText>You are not quite sure what you are doing, you think you might have found something, that's about it...</longText>
+<popupText>[TT] 真实不虚?</popupText>
+<longText>你并不十分确定你在做什么，你认为也行你已经发现了什么，有关于...</longText>
 <page type = "text">You don't know how you managed to do it, but you have found a way of creating blocks that exist in non-euclidean space.
 
 These blocks are based on the design you had put together for Warded Stone Blocks, they can only be broken by the player who placed them, using a wand. 
@@ -313,4 +313,76 @@ These blocks are based on the design you had put together for Warded Stone Block
 However, there's a particularity to these. They have no physical boundaries for the player who placed them, allowing them to walk trough these blocks as if they didn't exist. For everything else, they act as normal blocks.</page>
 <page type = "arcanecrafting">PHANTOM_STONE</page>
 </project>
+
+<!-- ======================================== Hyperenergetic Nitor /-->
+<project id = "BRIGHT_NITOR" version = "1">
+<name>超能闪耀之光</name>
+<popupText>[TT] 便携烈焰</popupText>
+<longText>Breaking the fourth wall reveals an oddness of everything that's bright: it's not bright unless it's static. You are thinking, after fixing the fourth wall, about a way you can put an end to that.</longText>
+<page type = "text">After shattering some walls on the fourth quadrant, you managed to create a light that will shine even if it's being carried by a player by energizing the everburning flame that is Nitor with sources of energy, like Alumentum.
+
+The light casted by this will shine closely behind the carrier, it seems to leave a longer trail in the Nether, due to the heat.</page>
+<page type = "infusioncrafting">BRIGHT_NITOR</page>
+</project>
+
+<!-- ======================================== Thaumostatic Magnetizer /-->
+<project id = "MAGNET" version = "1">
+<name>奥能场磁铁</name>
+<popupText>[TT] 这是虾米原理?</popupText>
+<longText>By studying the thaumostatic field to create the Thaumostatic Harness, you have acquired important knowledge in the area of moving matter in space, the question here is "magnets, how do they work?".</longText>
+<page type = "text">With the knowledge of the thaumostatic field you got from creating the Thaumostatic Harness, you made something, a bit less impressive, admittedly, that may prove useful.
+
+This block acts as a magnet, it's state can be changed by right clicking it. While in south (blue) mode, it'll pull any nearby items towards it. While in north (red) mode, it'll do the opposite. Furthermore, the range of this attraction, or repulsion, is determined by the strength of the redstone signal applied to it.</page>
+<page type = "infusioncrafting">MAGNET</page>
+</project>
+
+<!-- ======================================== Reaper Scythe /-->
+<project id = "SCYTHE" version = "1">
+<name>死神之镰</name>
+<popupText>[TT] 灵魂生命</popupText>
+<longText>You've been studying malicent knowledge, your objective is to possibly create a weapon that would do something with souls...</longText>
+<page type = "text">You've studied malicent knowledge, and created a Scythe that reaps with pure evil.
+
+This scythe pairs with a Thaumium Sword on all aspects, however, upon killing an hostile living being with it, the soul of that being will get reaped and converted into a Soul Heart, which acts as a shield, absorbing damage taken. Sadly, a soul heart will disapper entirely after protecting the bearer from any damage. Up to 20 soul hearts can be accumulated.
+
+The Scythe also cuts tall grass and leaves with finesse without sustaining as much as a scratch.</page>
+<page type = "infusioncrafting">SCYTHE</page>
+</project>
+
+<!-- ======================================== Bottle of Rain Water /-->
+<project id = "RAINWATER_BOTTLE" version = "1">
+<name>无根水瓶子</name>
+<popupText>[TT] 气候研究</popupText>
+<longText></longText>
+<page type = "text">下雨的时候拿着空瓶右击能得到这种装着雨水的瓶子。
+
+Sadly, rain water is impure and can not be put to the same uses as the spring water commonly used. On the other hand, it's the only way you know of studying the Aer aspect.
+
+Weather is a complex subject, so this probably won't come in handy until later in your career.</page>
+</project>
+
+<!-- ======================================== Weather Crystals /-->
+<project id = "WEATHER_CRYSTAL" version = "1">
+<name>气候水晶</name>
+<popupText>[TT] 气候控制</popupText>
+<longText>You think you've finally put to use the long standing knowledge of weather...</longText>
+<page type = "text">By studying the element of weather, you managed to create a pair of crystals that will allow you to manipulate it.
+
+These two crystals, of Sunlight and Rainfall, allow you to, respectivelly, halt and create rain, by shattering them.</page>
+<page type = "infusioncrafting">WEATHER_CRYSTAL_0</page>
+<page type = "infusioncrafting">WEATHER_CRYSTAL_1</page>
+<page type = "text">asdf</page>
+</project>
+
+<!-- ======================================== Aphrodisiac Concoction /-->
+<project id = "LOVE_POTION" version = "1">
+<name>爱神之水</name>
+<popupText>[TT] 空气里弥漫着爱意</popupText>
+<longText>The amount of times you had to waste your hard earned wheat or potatos on breeding livestock is your inspiration for what you're researching right now, the ultimate objective is a potion that will mimic those effects.</longText>
+<page type = "text">You have forumalated a recipe for a concoction with the essence of love.
+
+This potion-like item acts similar to a splash potion, simply tossing it near an area with livestock will cause the same effects as if these animals had been fed with their food of choice.</page>
+<page type = "infusioncrafting">LOVE_POTION</page>
+</project>
+
 </research>
